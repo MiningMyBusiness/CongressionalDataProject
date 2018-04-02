@@ -1,6 +1,6 @@
 # Visualizing Congress: seeing the forest and the trees
 
-![Visualizing Congress Logo](/logo.png)
+<img src="https://github.com/MiningMyBusiness/CongressionalDataProject/raw/master/Logo.png" width="150">
 
 This repo contains the code and data needed to make the visualizations found in the [Visualizing Congress: seeing the forest and the trees](https://plot.ly/~kdb6df/6/visualizing-congress-seeing-the-forest-and-the-trees/) project submitted to the Congressional Data Competition.
 
