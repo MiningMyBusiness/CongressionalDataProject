@@ -13,7 +13,7 @@ Through interactive visualizatons of data collected from [Congress.gov](https://
 * the connections between Congress members
 * and the connection of members to the legistlation. 
 
-We demonstrate a method of organization and propose a formal system we term the congressional data complex to bring order to the expanse of congressional data being produced every year. To learn more, please go to the [project page](https://plot.ly/~kdb6df/6/visualizing-congress-seeing-the-forest-and-the-trees/) and feel free to look through this repo. 
+We demonstrate a method of organization and propose a formal system we term the congressional data complex to bring order to the expanse of congressional data being produced every year. To learn more, please go to the [project page](https://plot.ly/~kdb6df/6/visualizing-congress-seeing-the-forest-and-the-trees/) and look through this repo. 
 
 ## Repo organization
 
