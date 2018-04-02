@@ -24,4 +24,4 @@ The files in the Code directory of the repo contain all revelant code files (pyt
 The html files in the Figures directory of the repo contain all relevant figures outputed by the code files in the Code Directory. 
 
 ### Data
-The files in the Data directory are not human-readable and only readable with python code. These data are aggregations of raw data collected from scraping. These raw data files are available online and can be collected by running the webscraping code found in the repo under the Code directory. 
+The files in the Data directory are not human-readable and only readable with python code. These data are aggregations of raw data collected from scraping. This raw data is online and can be collected by running the webscraping code found in the repo under the Code directory. 
