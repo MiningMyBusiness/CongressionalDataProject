@@ -6,7 +6,7 @@ This repo contains the code and data needed to make the visualizations found in 
 
 ## Introduction
 
-With thousands of pages of congressional data being made available online every year, the legistlative process is more open now than it has been before. However, The sheer volume of content makes it difficult to understand the activity of Congress as a whole and of members in particular. 
+With thousands of pages of congressional data being made available online every year, the legistlative process is more open now than it has been before. However, the sheer volume of content makes it difficult to understand the activity of Congress as a whole and of members in particular. 
 
 Through interactive visualizatons of data collected from [Congress.gov](https://www.congress.gov/), this project works towards that solution by exploring 
 * the activities of Congress members
