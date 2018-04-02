@@ -1,5 +1,5 @@
 # Relevant information about code files 
-Code found here creates the plots found in the [Visualizing Congress: seeing the forest and the trees](https://plot.ly/~kdb6df/6/visualizing-congress-seeing-the-forest-and-the-trees/) project page.
+Code found here creates the plots found in the [Visualizing Congress: seeing the forest and the trees](https://plot.ly/~kdb6df/6/visualizing-congress-seeing-the-forest-and-the-trees/) project page. The subdirectory within this directory contains code needed to scrape the Congress.gov webpage, aggregate data, and analyze data to prepare the processed data files used to make the figures for this project.
 
 ## Details on each file 
 
