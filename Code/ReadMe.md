@@ -15,5 +15,5 @@ This file makes the network visualization seen in the third figure panel of the 
 ### MemberKeywordNetwork.py
 This file makes the member to keyword visualization seen in the fourth figure panel of the project page. 
 
-### DataScrapingAngAggregation subdirectory
+### DataScrapingAndAggregation subdirectory
 This subdirectory contains code used to scrape [Congress.gov](https://www.congress.gov/), aggregate data, and extract keywords from bill summaries.
