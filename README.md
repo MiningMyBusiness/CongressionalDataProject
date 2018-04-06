@@ -31,3 +31,8 @@ The files in the Data directory are not human-readable and only readable with py
 [Project Video](https://vimeo.com/262809222)
 
 [Project Dashboard](https://plot.ly/~kdb6df/6/visualizing-congress-seeing-the-forest-and-the-trees/)
+
+## Project Contributors
+
+Kiran Bhattacharyya
+Sara Milkes 
