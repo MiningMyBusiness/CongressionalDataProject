@@ -25,3 +25,9 @@ The html files in the Figures directory of the repo contain all relevant figures
 
 ### Data
 The files in the Data directory are not human-readable and only readable with python code. These data are aggregations of raw data collected from scraping. This raw data is online and can be collected by running the webscraping code found in the repo under the Code directory. 
+
+## External Links
+
+[Project Video](https://vimeo.com/262809222)
+
+[Project Dashboard](https://plot.ly/~kdb6df/6/visualizing-congress-seeing-the-forest-and-the-trees/)
